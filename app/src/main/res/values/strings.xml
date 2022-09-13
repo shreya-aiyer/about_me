@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">about_me</string>
+    <string name="name">Shreya Aiyer</string>
+    <string name="yellow_star">yellow_star</string>
+    <string name="bio">Lorem ipsum dolor sit amet. Vel laborum saepe et tempore enim sit sint amet aut excepturi animi et ducimus totam ea quae fugit 33 animi voluptas. Qui animi laboriosam eos sapiente repellendus est obcaecati ipsam ut minus expedita in nemo enim eum enim omnis ad laudantium eaque!\n
+\n
+Ut iusto sequi sit rerum architecto in consequuntur voluptatem et explicabo architecto ut vero galisum. Ut facilis placeat 33 similique necessitatibus aut beatae accusamus aut quisquam laudantium. Qui quibusdam quaerat non mollitia nulla eos rerum fuga sed magni quasi sed architecto quis. Ad cumque quia vel eaque sint aut eius ullam qui recusandae dolor aut ratione obcaecati et porro error a neque molestias.\n
+\n
+Ab libero quia et suscipit officia vel omnis nulla. Ut eligendi laboriosam et rerum quas et architecto sint non consequatur possimus ut veritatis omnis eos cupiditate dolorem in officiis aspernatur.</string>
+    <string name="nickname">Nickname</string>
+    <string name="done">Done</string>
+</resources>
