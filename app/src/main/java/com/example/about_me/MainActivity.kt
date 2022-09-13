@@ -10,7 +10,7 @@ import android.widget.EditText
 import android.widget.TextView
 import androidx.databinding.DataBindingUtil
 import com.example.about_me.databinding.ActivityMainBinding
-import com.example.android.about_me.MyName
+import com.example.about_me.MyName
 
 class MainActivity : AppCompatActivity() {
 
@@ -42,9 +42,9 @@ class MainActivity : AppCompatActivity() {
             view.visibility = View.GONE
             nicknameTextView.visibility = View.VISIBLE
         }
-        myName?.nickname = nickname_edit.text.toString()
+        myName?.nickname = editText.text.toString()
         // Invalidate all binding expressions and request a new rebind to refresh UI
-        invalidateAll()
+        binding.invalidateAll()
         //Hiding keyboard
         val imm = getSystemService(Context.INPUT_METHOD_SERVICE) as InputMethodManager
         imm.hideSoftInputFromWindow(view.windowToken, 0)

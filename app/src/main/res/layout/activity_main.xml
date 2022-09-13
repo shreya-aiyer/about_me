@@ -6,7 +6,7 @@
     <data>
         <variable
             name="myName"
-            type = "com.example.android.about_me.MyName"/>
+            type = "com.example.about_me.MyName"/>
     </data>
 
     <LinearLayout
